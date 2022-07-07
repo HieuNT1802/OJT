@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Tranning.CandidateManagement"/>
+    <fullyQualifiedTypeName name="Tranning.Candidate"/>
+    <fullyQualifiedTypeName name="fa.training.ex1.Ex1"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.ReturnNode"/>
+    <fullyQualifiedTypeName name="fa.training.ex3.Book"/>
+    <fullyQualifiedTypeName name="fa.training.ex3.Library"/>
+    <fullyQualifiedTypeName name="fa.training.ex2.Department"/>
+    <fullyQualifiedTypeName name="fa.training.ex2.Employee"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="fa.training.exercise2.Employee"/>
+    <fullyQualifiedTypeName name="fa.training.exercise3.Sedan"/>
+    <fullyQualifiedTypeName name="fa.training.exercise3.Ford"/>
+    <fullyQualifiedTypeName name="fa.training.exercise3.Car"/>
+    <fullyQualifiedTypeName name="fa.training.sms.Student"/>
+    <fullyQualifiedTypeName name="fa.training.sms.Course"/>
+    <fullyQualifiedTypeName name="fa.training.sms.Book"/>
+    <fullyQualifiedTypeName name="fa.training.sms.Enroll"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="fa.training.sms.BookAdoption"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="fa.training.entities.Publication"/>
+    <fullyQualifiedTypeName name="fa.training.Ex1.Shape"/>
+    <fullyQualifiedTypeName name="fa.training.Ex1"/>
+    <fullyQualifiedTypeName name="fa.training.Ex1.Triangle"/>
+    <fullyQualifiedTypeName name="fa.training.Triangle"/>
+    <fullyQualifiedTypeName name="fa.training.Circle"/>
+    <fullyQualifiedTypeName name="fa.training.Shape"/>
+    <fullyQualifiedTypeName name="fa.training.Rectangle"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.graph.Node.Input"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="fa.tranning.Validation"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="fa.tranning.ex2.Employee"/>
+    <fullyQualifiedTypeName name="fa.tranning.ex2.Validate"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="fa.tranning.enities.Airports"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="fa.training.services.FixedwingsServices"/>
+    <fullyQualifiedTypeName name="fa.tranning.enities.Airplane"/>
+    <fullyQualifiedTypeName name="fa.tranning.enities.Fixedwings"/>
+    <fullyQualifiedTypeName name="fa.tranning.enities.Helicopters"/>
+</qualifiedTypeNameHistroy>

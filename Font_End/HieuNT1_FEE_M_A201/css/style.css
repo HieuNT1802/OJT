@@ -1,0 +1,71 @@
+/*Responsive */
+@media (min-width: 768px) {
+    header.head {
+      padding-top: 12rem;
+      padding-bottom: 12rem;
+    }
+    header.head h1, header.head .h1 {
+      font-size: 3rem;
+    }
+  }
+
+  /* Header */
+header.head {
+  position: relative;
+  background: url("../assets/img/bg-masthead.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+/* Icon */
+.features-icons {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+  .features-icons .features-icons-item {
+    max-width: 20rem;
+  }
+  .features-icons .features-icons-item .features-icons-icon {
+    height: 7rem;
+  }
+  .features-icons .features-icons-item .features-icons-icon i {
+    font-size: 4.5rem;
+  }
+  /* Showcase */
+  .showcase .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+  }
+  .showcase .showcase-text {
+  padding: 3rem;
+}
+ /* Member */
+.testimonials {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+  .testimonials .testimonial-item {
+    max-width: 18rem;
+  }
+  .testimonials .testimonial-item img {
+    max-width: 12rem;
+    box-shadow: 0px 5px 5px 0px #adb5bd;
+  }
+   /* Sign in duoi */
+  .action{
+    position: relative;
+  background: url("../assets/img/bg-masthead.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  }
+   /* Footer */
+  footer.footer {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    
+  }
+  footer.footer ul li{
+    color: dodgerblue;
+
+  }

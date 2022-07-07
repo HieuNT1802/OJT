@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;HieuNT1_JPE_P1_P002&apos; to &apos;HieuNT1_JPL_P1_P002&apos;&#x0D;&#x0A;- Original element: &apos;HieuNT1_JPE_P1_P002&apos;&#x0D;&#x0A;- Renamed element: &apos;HieuNT1_JPE_P1_P002&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;HieuNT1_JPE_P1_P002&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=HieuNT1_JPE_P1_P002" name="HieuNT1_JPL_P1_P002" references="true" stamp="1655087156755" version="1.0"/>
+</session>

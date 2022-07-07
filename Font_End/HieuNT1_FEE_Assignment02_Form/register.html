@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register form</title>
+</head>
+<body>
+    <h2>Form đăng kí học viên tại FPT Software Academy</h2>
+    <form action="">
+        <table border="1px" bordercolor="#edc421">
+        <tr>
+            <td>Họ</td>
+            <td><input type="text" value="Nhập họ của bạn" ></td>
+        </tr>
+        <tr>
+            <td>Tên</td>
+            <td><input type="text" value="Nhập tên của bạn" ></td>
+        </tr>
+        <tr>
+            <td>Mật khẩu</td>
+            <td><input type="text" value="Nhập mật khẩu" ></td>
+        </tr>
+        <tr>
+            <td>Tuổi</td>
+            <td><input type="range" value="50"> 
+            </td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td><input type="text" value="Nhập email của bạn" ></td>
+        </tr>
+        <tr>
+            <td>Giới tính</td>
+            <td> <input type="radio" id="nam" name="gioitinh" ><label for="nam">Nam</label>
+                <input type="radio" id="nu" name="gioitinh" > <label for="nu">Nữ</label>     
+                <input type="radio" id="khac" name="gioitinh" > <label for="khac">Khác</label>    
+            </td>
+        </tr>
+        <tr>
+            <td>Trình độ</td>
+            <td> <select>
+                <option value="">Chọn trình độ</option>
+              </select></td>
+        </tr>
+        <tr>
+            <td>Khóa học</td>
+            <td><input type="checkbox" id="java" name="java" >
+                <label for="java">Java</label>
+                <input type="checkbox" id="net" name="net" >
+                <label for="net">Net</label>
+                <input type="checkbox" id="front-end" name="front-end" >
+                <label for="front-end">Front-end</label>
+                <input type="checkbox" id="angular" name="angular" >
+                <label for="angular">Angular</label>
+                <input type="checkbox" id="react" name="react" >
+                <label for="react">React</label>
+                <input type="checkbox" id="node" name="node" >
+                <label for="node">NodeJS</label>
+
+            </td>
+        </tr>
+        <tr> 
+        <td>Quê quán </td>
+        <td><textarea name="message" rows="10" cols="30">Nhập địa chỉ nhà, gồm số nhà, đường, phố, phường/xã
+            </textarea></td>
+         </tr>
+         <tr>
+            <td></td>
+            <td><button type="submit" >Đăng kí</button>
+                <button type="submit" >Điền lại</button>
+            </td>
+        </tr>
+    </table>
+</form>
+    
+</body>
+</html>
